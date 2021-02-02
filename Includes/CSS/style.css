@@ -1,0 +1,15 @@
+.polo_cadastro {
+    width: 167px !important;
+    height: 47px;
+    font-size: 19px;
+    background: #3865bd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.polo_title {
+    color: #3f4146;
+    font-size: 34px !important;
+    padding: 9px !important;
+}
